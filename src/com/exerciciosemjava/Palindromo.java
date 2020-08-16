@@ -2,7 +2,7 @@ package com.exerciciosemjava;
 
 import java.util.Scanner;
 
-public class App {
+public class Palindromo {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
